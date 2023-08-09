@@ -4,11 +4,7 @@
     </p>
 
 <div align="center">
-   <a href="[https://github.com/RuberDukcy](https://github-profile-trophy.vercel.app/?username=RuberDukcy)">
-    <img
-        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=FCBF01&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Zain Ul Abdeen.;Also+known+as+RuberDucky.;Welcome+to+my+GitHub."
-        alt="Typing SVG" width="580px"
-        />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E511&width=435&lines=This+is+Zain+Ul+Abdeen.;I'm+Flutter+Full+Stake+Developer.;Welcome+to+my+Github." alt="Typing SVG" /></a>
         
 <img src = "https://streak-stats.demolab.com?user=RuberDucky&theme=dark"/>
 
