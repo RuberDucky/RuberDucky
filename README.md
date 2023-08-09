@@ -4,7 +4,7 @@
     </p>
 
 <div align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E511&width=435&lines=This+is+Zain+Ul+Abdeen.;I'm+Flutter+Full+Stake+Developer.;Welcome+to+my+Github." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7E511&width=435&lines=This+is+Zain+Ul+Abdeen.;I'm+Flutter+Full+Stack+Developer.;Welcome+to+my+Github." alt="Typing SVG" /></a>
         
 <img src = "https://streak-stats.demolab.com?user=RuberDucky&theme=dark"/>
 
